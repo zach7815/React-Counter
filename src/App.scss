@@ -1,0 +1,22 @@
+.App{
+    border:solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1 rem;
+    padding: 2rem;
+    height: 10rem;
+    border-radius: 5px;
+    .buttons{
+       display: flex;
+       justify-content: center;
+       gap: 1rem;
+       width: 100%;
+      button  {
+           width: 50%; 
+        }
+        
+
+    }
+}
